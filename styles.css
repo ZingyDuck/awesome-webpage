@@ -101,14 +101,15 @@
 }
 
 .Ryan {
-  position: absolute;
+  position: relative;
   width: fit-content;
   height: fit-content;
   border-radius: 4px;
   cursor: pointer;
-  margin-left: 46%;
+  margin-left: auto;
   background-color: darkslategray;
   color:white;
+  
 }
 
 .Jackie {
