@@ -1,0 +1,83 @@
+.Brian {
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    margin-top: 30%;
+}
+
+.Jeffy {
+    background-color: rgb(153, 203, 78);
+}
+
+.Marvin {
+    margin-top: 20%;
+    margin-left: 48%;
+
+}
+.Chris {
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
+.Greg {
+    background-color: rgb(255, 255, 255);
+    margin-left: none;
+}
+
+.Stan {
+    color: rgb(47, 43, 43);
+    margin-left: none;
+}
+
+
+.Suzan {
+    margin-top: 40%;
+    margin-left: none;
+}
+
+.Suzie {
+    margin-top: 40%;
+    margin-left: 90%;
+}
+
+.Megan {
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 50%;
+}
+
+.Bully {
+    text-align: center;
+    font-size: larger;
+    font-style: initial;
+
+}
+
+.Carl {
+    text-align: center;
+    font-size: large;
+}
+
+.Romeo {
+    text-align: center;
+    font-size: x-large;
+}
+.Cody {
+    background-repeat: no-repeat;
+    background-size: 50%;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    margin-top: 30%;
+    margin-left: 25%;
+}
