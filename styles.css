@@ -32,12 +32,6 @@
     text-align: center;
 }
 
-
-.Suzan {
-    margin-top: 40%;
-    margin-left: none;
-}
-
 .nav-button {
     width: fit-content;
 }
@@ -67,18 +61,6 @@
 .Romeo {
     text-align: center;
     font-size: x-large;
-}
-.Cody-del {
-    background-repeat: no-repeat;
-    background-size: 100%;
-    height: 100%;
-    left: auto;
-    position: absolute;
-    top: 0;
-    width: 100%;
-    margin-top: 30%;
-    margin-left: 25%;
-    margin-right: 25%;
 }
 
 .Cody {
