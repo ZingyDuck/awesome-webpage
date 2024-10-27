@@ -1,0 +1,128 @@
+.Mason {
+    text-align: center;
+}
+
+
+.Brian {
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    margin-top: 30%;
+}
+
+.Jeffy {
+    background-color: rgb(153, 203, 78);
+}
+
+.Marvin {
+    margin-top: 20%;
+    margin-left: 48%;
+
+}
+.Chris {
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
+.Greg {
+    text-align: center;
+}
+
+
+.Suzan {
+    margin-top: 40%;
+    margin-left: none;
+}
+
+.nav-button {
+    width: fit-content;
+}
+
+.Megan {
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 50%;
+}
+
+.Bully {
+    text-align: center;
+    font-size: larger;
+    font-style: initial;
+
+}
+
+.Carl {
+    text-align: center;
+    font-size: large;
+}
+
+.Romeo {
+    text-align: center;
+    font-size: x-large;
+}
+.Cody-del {
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100%;
+    left: auto;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    margin-top: 30%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.Cody {
+    text-align: center;
+}
+
+
+.nav-buttons-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.nav-buttons-column {
+  display: flex;
+  flex-direction: column;
+}
+
+.banner-top{
+    background-image: url(Deer.jpg);
+    width: 100%;
+    height: 150px;
+    background-repeat: no-repeat;
+    position: relative;
+    background-position: center;
+    display: block;    
+    background-color: cadetblue;    
+}
+
+.Steve {
+ display: flex;
+  
+}
+
+.Ryan {
+  position: absolute;
+  width: 100px;
+  height: 50px;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-left: 46%;
+}
+
+.Jackie {
+    background-color: rgb(127, 181, 183);
+
+}
